@@ -42,12 +42,13 @@ Un cop tenim el graf creat, podem "jugar" amb ell, projectant-lo sobre un mapa d
 
 ```
 Usuari: /plotgraph 1000
-```
 Bot: ![Mapa 1](https://i.imgur.com/4eDFWyW.jpg)
+```
+
 
 ```
 Usuari: /route "Sevilla, es" "Paris, fr"
-Bot: ![Mapa 2](route.jpg)
+Bot: ![Mapa 2](https://i.imgur.com/RJMzoot.jpg)
 ```
 
 ### Llista completa de comandes
