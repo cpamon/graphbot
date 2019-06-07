@@ -20,7 +20,7 @@ pip3 install pandas
 
 GraphBot és un bot de Telegram capaç de construir grafs que representen ciutats del món. Un cop creat un graf, podem representarlo en el mapa, o cercar una ruta entre dues ciutats.
 
-### Per comencçar
+### Per començar
 
 Per començar li podem enviar la comanda /start al bot.
 
