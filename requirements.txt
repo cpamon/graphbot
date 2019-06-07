@@ -1,0 +1,7 @@
+pip3 install python-telegram-bot
+pip3 install networkx
+pip3 install haversine
+pip3 install FuzzyWuzzy
+pip3 install staticmap
+pip3 install requests
+pip3 install pandas
