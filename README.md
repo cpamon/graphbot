@@ -4,7 +4,7 @@ Pràctica del GraphBot en Python, per l'assignatura de LP.
 
 ### Prerequisits
 
-Per tal d'executar _graphBot_ correctament, es necessiten descarregar unes llibreries addicionals, en cas que no les tingueu ja descarregades.
+Per tal d'executar _graphBot_ correctament, es necessiten descarregar unes llibreries addicionals, en cas que no les tingueu ja descarregades. També es necessita el fitxer _graphBot_func_ que conté funcions necessàries. 
 
 ```
 pip3 install python-telegram-bot
@@ -43,12 +43,12 @@ Un cop tenim el graf creat, podem "jugar" amb ell, projectant-lo sobre un mapa d
 ```
 Usuari: /plotgraph 1000
 ```
-![Mapa 1](https://i.imgur.com/4eDFWyW.jpg)
+Bot: ![Mapa 1](https://i.imgur.com/4eDFWyW.jpg)
 
 ```
 Usuari: /route "Sevilla, es" "Paris, fr"
 ```
-![Mapa 2](https://i.imgur.com/RJMzoot.jpg)
+Bot: ![Mapa 2](https://i.imgur.com/RJMzoot.jpg)
 
 ### Llista completa de comandes
 - /graph _⟨distance⟩ ⟨population⟩_  -  Crea un graf on:
